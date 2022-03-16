@@ -1,0 +1,4 @@
+venvs/
+thecoding/__pycache__
+thecoding/migrations
+thecoding/pybo/__pycache__
